@@ -1,0 +1,24 @@
+h2 {
+  font-weight: 200;
+}
+
+.description {
+  color: green;
+}
+
+.item {
+  margin: 5pt;
+  padding: 20pt;
+  border-color: black;
+  border-style: double;
+  background-color: rgb(0, 247, 255);
+}
+
+.oldPrice {
+  color: red;
+}
+
+#salePrice {
+  color: green;
+  font-weight: bold;
+}
